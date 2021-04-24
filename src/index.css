@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.category {
+  border: 1px solid #eee;
+  margin: 1.5rem 0.7rem;
+}
+
+.category h1 {
+  background: #eee;
+  color: #555;
+  padding: 0.5rem;
+}
+
+.post {
+  align-items: center;
+  display: flex;
+  padding: 1.5rem;
+}
+
+.image {
+  margin-right: 1.5rem;
+}
+
+.info {
+  width: 100%;
+}
+
+.title {
+  border-bottom: 1px solid #eee;
+  line-height: 1.5rem;
+}
